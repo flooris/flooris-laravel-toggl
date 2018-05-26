@@ -4,12 +4,12 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f24b05577b859afb4dddf7e679b7c11f",
-    "content-hash": "854232608c1a51756d0350b477523830",
+    "hash": "07a29ad974815a74192179b6dd6161c3",
+    "content-hash": "d0bd9426f5821e20c50e01ee0b4aea8b",
     "packages": [
         {
             "name": "flooris/php-toggl",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/flooris/flooris-php-toggl.git",
@@ -326,9 +326,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "flooris/php-toggl": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
