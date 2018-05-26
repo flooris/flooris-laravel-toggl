@@ -18,5 +18,12 @@
         "psr-4": {
           "Flooris\\LaravelToggl\\": "src/Flooris/LaravelToggl"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Flooris\\LaravelToggl\\TogglServiceProvider"
+            ]
+        }
     }
 }
